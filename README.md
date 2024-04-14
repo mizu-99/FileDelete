@@ -48,7 +48,7 @@ sample_word02
 Windows  
 
 ```shell
-python -m file_delete.py
+python file_delete.py
 ```
 
 Linux(Ubuntu)
