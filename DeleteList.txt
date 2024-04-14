@@ -1,0 +1,3 @@
+root=./sample_dir
+sample_word01
+sample_word02
